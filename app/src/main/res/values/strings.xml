@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IPRG ICE3</string>
+    <string name="total_price">Total Price: %1$s</string>
+</resources>
